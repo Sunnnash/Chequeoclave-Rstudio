@@ -23,6 +23,10 @@ restando <- vector5 - vector6
 restando
 potencia <- vector5^vector6
 potencia
+vector7 <- c( 78,5,6,8)
+vector8 <-c(12,4,5)
+vector7 + vector8
+
 
 
 
